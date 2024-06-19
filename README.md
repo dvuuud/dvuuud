@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baltabaev Davud</h1>
-<h3 align="center">im beginner Backend developer, I'm 15 years old and I've been studying the Python programming language.</h3>
+<h3 align="center">I'm beginner Backend developer, I'm 15 years old and I've been studying the Python programming language.</h3>
 
 - 🌱 I’m currently learning **django-rest, django**
 
